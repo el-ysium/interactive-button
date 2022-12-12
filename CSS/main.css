@@ -1,0 +1,60 @@
+body {
+  background: white;
+}
+
+.vbtn {
+  background-color: #f7f7f7;
+  color: black;
+  font-size: 1rem;
+  padding: 0.75rem 1.75rem;
+  width: 15%;
+  margin: 50vh auto;
+  border-radius: 0.5rem;
+  border: none;
+}
+.vbtn:hover {
+  background-color: #5267DF;
+  color: white;
+  transition: 1s;
+}
+
+.btn {
+  background-color: #5267DF;
+  color: white;
+  font-size: 1rem;
+  padding: 0.75rem 1.75rem;
+  margin: 0.5rem 0;
+  float: right;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+.form {
+  background-color: #f7f7f7;
+  display: block;
+  color: black;
+  padding: 6rem 4rem;
+  width: 30%;
+  margin: 0 auto;
+}
+.form .gtext {
+  color: #5267DF;
+  text-align: center;
+}
+.form .dtext {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.form input {
+  padding: 1rem 2rem;
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  border-color: rgba(128, 128, 128, 0.188);
+  outline: none;
+  width: 100%;
+  border-radius: 0.5rem;
+}
+.form .itext {
+  padding: 0;
+  margin: 0 0 0.2rem 0;
+}/*# sourceMappingURL=main.css.map */
